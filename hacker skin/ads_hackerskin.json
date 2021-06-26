@@ -1,0 +1,32 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_int_reward": "ca-app-pub-6026900188964442/2682516155",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 6,
+      "icon_promote": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "judul_promote": "Update Your Skin",
+      "deskripsi_promote": "SPIDER MAN SKIN FOR MCPE",
+      "gambar_promote": "https://nananananana.site/starladev/spidercraft/images/ads/ads.jpg",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe",
+      "privacy": "http://minecraft.novaskin.me/embed/4968323119",
+      "tutorial": "https://sites.google.com/view/mcpe-starla"
+    
+    }
+  ]
+}
