@@ -1,0 +1,461 @@
+{
+  "Ads": [
+    {
+      "status": "0",
+      "link": "http://",
+      "pengaturan_iklan": "1",
+      "admob_open_ads": "ca-app-pub-6026900188964442/6552954347",
+      "admob_banner": "ca-app-pub-6026900188964442/4693077766",
+      "admob_inter": "ca-app-pub-6026900188964442/2996852719",
+      "admob_inter_video": "ca-app-pub-6026900188964442/1179511612",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_int_reward": "ca-app-pub-3940256099942544/5354046379",
+      "interval": 4,
+      "fan_inter": "",
+      "fan_banner": "",
+      "fan_native": "",
+      "startappid": "201669628",
+      "icon_promote": "https://play-lh.googleusercontent.com/Dld9bhq6b7pBAb2lDFOawu6pRWC70M1WGwNHcGbDyibEzBk5c3mobbrJRM5Rv-iTYw=s180",
+      "judul_promote": "TRY NEW PRESTON SKIN",
+      "deskripsi_promote": "PRESTON SKIN FOR MCPE",
+      "gambar_promote": "https://nananananana.site/starladev/preston/images/ads.jpg",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.preston.skin.mcpe",
+      "gambar_promote2": "https://nananananana.site/starladev/ultracraft/images/ads/ad.jpg",
+      "link_promote2": "https://play.google.com/store/apps/details?id=com.starladev.ultraman.skin.mcpe",
+      "privacy": "https://sites.google.com/view/starla64/home",
+      "tutorial": "https://sites.google.com/view/mcpe-starla"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "Ludo King",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id": 2,
+      "judul": "Homescapes",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id": 3,
+      "judul": "Minecraft",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Skin": [
+      {
+      "id": 1,
+      "view_skin": "https://lh3.googleusercontent.com/d/1-X9-kRCyqMIejojOo-4CeXjcmCH851pR",
+      "skin_url": "https://lh3.googleusercontent.com/d/1oSBvMU2h5QV2ygeJlrvsnYh2cQB7Yf8U",
+      "nama_skin": "Indonesian Flag Frost Diamond.png"
+    },
+    {
+      "id": 2,
+      "view_skin": "https://lh3.googleusercontent.com/d/1lC-vY7h4skF0lLyQTmkp6bQpMi4fX22F",
+      "skin_url": "https://lh3.googleusercontent.com/d/10MWqAEDZMm5MhJxFMiaB-NBwj13J2CMp",
+      "nama_skin": "Frost Diamond Blue Knight.png"
+    },
+    {
+      "id": 3,
+      "view_skin": "https://lh3.googleusercontent.com/d/1XkEw0ibcvGPnn_C_vH-dd6zD3urebzms",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Sg51jQaUSt45munI3RM3_N7IKbvqMf9T",
+      "nama_skin": "Frost Diamond Purple.png"
+    },
+    {
+      "id": 4,
+      "view_skin": "https://lh3.googleusercontent.com/d/1d8Q538fzWT397DEOJkF7PvskVNxm_aMl",
+      "skin_url": "https://lh3.googleusercontent.com/d/1cbiZViglJueh49tuzmy1KC-J1E7DDu7O",
+      "nama_skin": "Frost Diamond RnB.png"
+    },
+    {
+      "id": 5,
+      "view_skin": "https://lh3.googleusercontent.com/d/1kVCb76qlOg0bUgGGiTMt-tBjGbYDBTxX",
+      "skin_url": "https://lh3.googleusercontent.com/d/1cg3ibavtaFxxtZ75DBoka_AvqFAohWGR",
+      "nama_skin": "Elemental Red Frost Diamond.png"
+    },
+    {
+      "id": 6,
+      "view_skin": "https://lh3.googleusercontent.com/d/17o0eW5uASWrxXh84HhvNjQVolhLjpa3M",
+      "skin_url": "https://lh3.googleusercontent.com/d/1nqAcsiNiZLRUWSr_z9ih9jGa2bI2-hSK",
+      "nama_skin": "Frost Wooden.png"
+    },
+    {
+      "id": 7,
+      "view_skin": "https://lh3.googleusercontent.com/d/1fZPn1-B7HrYPw9J7QaOmRZGTMYebjQ38",
+      "skin_url": "https://lh3.googleusercontent.com/d/1PQMg48QJjIBN02kRS2ZkLe795UPK-tFg",
+      "nama_skin": "Frost Ender.png"
+    },
+    {
+      "id": 8,
+      "view_skin": "https://lh3.googleusercontent.com/d/1WJgN0tMSBBxkTzIrZ2708eLKv1W68IKy",
+      "skin_url": "https://lh3.googleusercontent.com/d/1PRSO6Qf_m4JruFLzigrL9MZSKCxlsck9",
+      "nama_skin": "Yellow Dark Frost.png"
+    },
+    {
+      "id": 9,
+      "view_skin": "https://lh3.googleusercontent.com/d/1Yd8Rt8eq12d2C84nRkGQ_jwOc-GYyjQ2",
+      "skin_url": "https://lh3.googleusercontent.com/d/1K-n6M3zGt1IAUfyIRRlVRrysNK22DrlI",
+      "nama_skin": "Frost Diamond Red.png"
+    },
+    {
+      "id": 10,
+      "view_skin": "https://lh3.googleusercontent.com/d/1liZc34r3stQllC7QGwyMHh1IGRh2zAqe",
+      "skin_url": "https://lh3.googleusercontent.com/d/1hIQMn_dZsRpouAArevHCaiRIPr-2CKPy",
+      "nama_skin": "Frost Black Blues.png"
+    },
+    {
+      "id": 111,
+      "view_skin": "https://lh3.googleusercontent.com/d/1lsNZRjAnG99dqspu-4Lxfgocf4KSgGtt",
+      "skin_url": "https://lh3.googleusercontent.com/d/1exJdzkw-HKutb5w19nThzpo8fgsj0Av8",
+      "nama_skin": "Frost Diamond Snow White.png"
+    },
+    {
+      "id": 12,
+      "view_skin": "https://lh3.googleusercontent.com/d/1w5GanHkXfaW7vpBhRMtTbOn5iXqlquWe",
+      "skin_url": "https://lh3.googleusercontent.com/d/160Ep-AS5Sm9DZw1PMQVX_DdAFYp5CcVS",
+      "nama_skin": "Nak3d Frost Diamond.png"
+    },
+    {
+      "id": 13,
+      "view_skin": "https://lh3.googleusercontent.com/d/1P2xnPh3r6zslaQnGU5Ka1L0aprh27KrU",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YgnLnUZ5Wc4mIp0m-xrSO7k3ppGBNKcI",
+      "nama_skin": "Frost Diamond Gold Crown - Premium Skin"
+    },
+    {
+      "id": 14,
+      "view_skin": "https://lh3.googleusercontent.com/d/1HtqOnJx7rfB359XdQuYNPcaSEzrORKMA",
+      "skin_url": "https://lh3.googleusercontent.com/d/1oP5oB_sgu5ixKvB_-Rv10oTEJ3sAyIbZ",
+      "nama_skin": "Super Blue Frost Diamond.png"
+    },
+    {
+      "id": 15,
+      "view_skin": "https://lh3.googleusercontent.com/d/1znBE2jonyzn3g0AI4OfVt8OlUwN-ATNQ",
+      "skin_url": "https://lh3.googleusercontent.com/d/1IEbzPzz8dmGWGQ9AfskNqSq5ySI9x6ZJ",
+      "nama_skin": "Frost Black Phantom.png"
+    },
+    {
+      "id": 16,
+      "view_skin": "https://lh3.googleusercontent.com/d/1DTadIp5uTimWZ4sw1Whg4pI0_Cd1BVjM",
+      "skin_url": "https://lh3.googleusercontent.com/d/1c7IksHlSe9hsbXfgDXbPZBVzBhMdyqSQ",
+      "nama_skin": "Frost Diamond Employee.png"
+    },
+    {
+      "id": 17,
+      "view_skin": "https://lh3.googleusercontent.com/d/1cKFgMWdAYqm7lW5hUNo3HkGQtZgpTurU",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xwRpnGd2-rKyBdUY68Lz63sPJGLb5YYy",
+      "nama_skin": "Cool Boy Frost.png"
+    },
+    {
+      "id": 18,
+      "view_skin": "https://lh3.googleusercontent.com/d/1S_XHRvblFI-d34V0xv12XGbMD1NyscnY",
+      "skin_url": "https://lh3.googleusercontent.com/d/1PhbuOjisbv7pmhtWGqaQ1CpzIfBLdfQh",
+      "nama_skin": "Frost Pink 1.png"
+    },
+    {
+      "id": 19,
+      "view_skin": "https://lh3.googleusercontent.com/d/1RXdRcZCBGILuFtCwg61-yEyjTJ_U-jqn",
+      "skin_url": "https://lh3.googleusercontent.com/d/1zXHqRJhA5W38fjribJdflnCCZF6j6mLn",
+      "nama_skin": "Medieval Frost Diamond.png"
+    },
+    {
+      "id": 20,
+      "view_skin": "https://lh3.googleusercontent.com/d/1mgeRhQ4OKSeemI6W8bBVwDyfc1Sn--rR",
+      "skin_url": "https://lh3.googleusercontent.com/d/1DIsZDMYvj0NQebgcJx2R-55wxq_IpLNz",
+      "nama_skin": "Frost Diamond Bapak Gile.png"
+    },
+    {
+      "id": 21,
+      "view_skin": "https://lh3.googleusercontent.com/d/1apXsnAH7oCB2SGXb59_t43wGcn5FLcem",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Z4DQHkNlBQSsOXEDsM1TCUcliFsM-8Ed",
+      "nama_skin": "Frost Super Max.png"
+    },
+    {
+      "id": 22,
+      "view_skin": "https://lh3.googleusercontent.com/d/1niKNvZtMIflZnGOwlc5dCDRN-y3DAfz_",
+      "skin_url": "https://lh3.googleusercontent.com/d/14lG9aCSCxRrBznw0aq9OlpLtHuc1qJ1t",
+      "nama_skin": "Frost Diamond King.png"
+    },
+    {
+      "id": 23,
+      "view_skin": "https://lh3.googleusercontent.com/d/1gQogaQ5uv9kSNV7vlH0866auu-sasr4f",
+      "skin_url": "https://lh3.googleusercontent.com/d/1hjJ-SjZJ8GSbpvBN7lZ4WLklFISoeJF-",
+      "nama_skin": "Frost Ultra Diamond.png"
+    },
+    {
+      "id": 24,
+      "view_skin": "https://lh3.googleusercontent.com/d/1LY5rrHshby8nbDK18FTUruxObIYykEAW",
+      "skin_url": "https://lh3.googleusercontent.com/d/1XDFtl7XCKk8EFfchqPN5vRGnSMGm3AXr",
+      "nama_skin": "Frost Yellow Blue White.png"
+    },
+    {
+      "id": 25,
+      "view_skin": "https://lh3.googleusercontent.com/d/17UXg1W25nxRk7DVu2zmHqoA4GScZQKWA",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xcUqeUhzhIX8YADLNo2g4tqiVlFxFNqU",
+      "nama_skin": "Frost Dark.png"
+    },
+    {
+      "id": 26,
+      "view_skin": "https://lh3.googleusercontent.com/d/18JZk7kdE3gfDRPP1VH9tjzLQ_YNCpuTz",
+      "skin_url": "https://lh3.googleusercontent.com/d/1VrwOXIAfjDO5YgNIgfLcOfo917zfCXxG",
+      "nama_skin": "Black Fire Frost.png"
+    },
+    {
+      "id": 27,
+      "view_skin": "https://lh3.googleusercontent.com/d/1Jgt6yPQ8HnP27b3xgrsVCsPWWi3WeoHH",
+      "skin_url": "https://lh3.googleusercontent.com/d/1lDbQaJMU-ZVSfjZASztfrhusrHT04vRl",
+      "nama_skin": "Frost Diamond Gold Emerald.png"
+    },
+    {
+      "id": 28,
+      "view_skin": "https://lh3.googleusercontent.com/d/1k8HYsrLFTe7pulb8fnrwqr9rdGLxiEjV",
+      "skin_url": "https://lh3.googleusercontent.com/d/1BqrACqlW0tSsX6nIxMSAA7pEb8Q5C180",
+      "nama_skin": "Pro Frost Diamond.png"
+    },
+    {
+      "id": 29,
+      "view_skin": "https://lh3.googleusercontent.com/d/1PTPJ9o8Z27KP6jHcQ-LR517zsb0PmMYe",
+      "skin_url": "https://lh3.googleusercontent.com/d/1tAzbFpHP6sldGwkceUdbZRNAw39qQmac",
+      "nama_skin": "Frost Diamond Medieval Gold.png"
+    },
+    {
+      "id": 30,
+      "view_skin": "https://lh3.googleusercontent.com/d/1ir_dnmPMszxeu1wriCLa5HIvcdBI4xMV",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QnprdBUpAjOhx2-POZBtwaftUsbpFW0o",
+      "nama_skin": "Frost Diamond Ultimate 2.png"
+    },
+    {
+      "id": 31,
+      "view_skin": "https://lh3.googleusercontent.com/d/1RIf-Fm2nx1oUUJNByfcZNQsm4MT8PCqW",
+      "skin_url": "https://lh3.googleusercontent.com/d/1bR9-Cai6r5MIqNztzbIKzJ8sSDanOAvl",
+      "nama_skin": "Frost Red Gold.png"
+    },
+    {
+      "id": 32,
+      "view_skin": "https://lh3.googleusercontent.com/d/1V8okI4x7xdReTusomPzCpvbn-TxZ-pld",
+      "skin_url": "https://lh3.googleusercontent.com/d/1FGQaCYPzgs83m8pnJFjxoWPPCOgDVoyc",
+      "nama_skin": "Frost Knight.png"
+    },
+    {
+      "id": 33,
+      "view_skin": "https://lh3.googleusercontent.com/d/1whCGtjDKDYc6hokYYpETxg3oWC2aMM8Q",
+      "skin_url": "https://lh3.googleusercontent.com/d/1N7uTfqLtMxb3G37CtNF5Uc9hGXz2AP_D",
+      "nama_skin": "Black Colorfull Frost.png"
+    },
+    {
+      "id": 34,
+      "view_skin": "https://lh3.googleusercontent.com/d/1SbRlwKFLEjDSfynF6s7jh37D70a72Sml",
+      "skin_url": "https://lh3.googleusercontent.com/d/1DSVbhvUkw07nie1C93RBTfGGZTsDHlzb",
+      "nama_skin": "Black Rainbow Frost Diamond.png"
+    },
+    {
+      "id": 35,
+      "view_skin": "https://lh3.googleusercontent.com/d/14xCMycULzLxvcNEofxYzhP0qRH9lHF-B",
+      "skin_url": "https://lh3.googleusercontent.com/d/1MuqoHThtMZP8vx0F_vgK6eaBedVS03jE",
+      "nama_skin": "Frost Gold.png"
+    },
+    {
+      "id": 36,
+      "view_skin": "https://lh3.googleusercontent.com/d/1LaHODLkQBsNwKV1jG0HeneCxFLttNXfv",
+      "skin_url": "https://lh3.googleusercontent.com/d/1RuP9Q3nNQQ7mgnpCkIv-ah7Kyo0lwcue",
+      "nama_skin": "Ultra Frost.png"
+    },
+    {
+      "id": 37,
+      "view_skin": "https://lh3.googleusercontent.com/d/10ua8BKuHIPEACwLKjWZRw3aG3ajqOHUa",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Gb5nc6F6yh48-tAUNE_V0Tumm1MPBhn5",
+      "nama_skin": "Frost Diamond Emerald.png"
+    },
+    {
+      "id": 38,
+      "view_skin": "https://lh3.googleusercontent.com/d/1_SFk9KPXKCTLgGBK_BIRizO4vgGG40Ft",
+      "skin_url": "https://lh3.googleusercontent.com/d/1L7k1H9R_vlSGyH-fTHa2Bzv8lmSCTiLC",
+      "nama_skin": "Frost Holo Black.png"
+    },
+    {
+      "id": 39,
+      "view_skin": "https://lh3.googleusercontent.com/d/1OIMYidCeJg7EjHo7ahZVMxMdhfr0Xqrm",
+      "skin_url": "https://lh3.googleusercontent.com/d/1OvQNOJpGTr5hfJ9DQnZqqohNbWTaBk18",
+      "nama_skin": "Frost Diamond White Red Blue.png"
+    },
+    {
+      "id": 40,
+      "view_skin": "https://lh3.googleusercontent.com/d/18sMpgOkxIV4ZhmXjuk3lxF2x7KX29MuM",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Wkmmrfj6LE6T9rwZNP4lFirH5XVLuR6W",
+      "nama_skin": "Frost White Stone.png"
+    },
+    {
+      "id": 41,
+      "view_skin": "https://lh3.googleusercontent.com/d/1KNAepTHEuJbP0tJVLDfpP0-9_1fb1Zm5",
+      "skin_url": "https://lh3.googleusercontent.com/d/1C1p3WfLHCd10AoZKoWgpzYKKMY-IaIJ0",
+      "nama_skin": "Frost Granny.png"
+    },
+    {
+      "id": 42,
+      "view_skin": "https://lh3.googleusercontent.com/d/1pWhQV_ELxogU8iDfN2uKZQEW8VwNlU9G",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xLtWP-GeGIn3OphkXYmXsNCYpPqBN869",
+      "nama_skin": "Snow Blue Frost Diamond.png"
+    },
+    {
+      "id": 43,
+      "view_skin": "https://lh3.googleusercontent.com/d/1H2ZSUH42kkO9R-c-I5PsmuzZO0beXFb2",
+      "skin_url": "https://lh3.googleusercontent.com/d/1FfcIPvgHc9iVYJJG9fYiQL5pDcSj0ZXd",
+      "nama_skin": "Frost Rock Diamond.png"
+    },
+    {
+      "id": 44,
+      "view_skin": "https://lh3.googleusercontent.com/d/1xLlIIe4Zh2oARC0BS5hK65fSJRxc19dc",
+      "skin_url": "https://lh3.googleusercontent.com/d/11KtP86_HpKjCg5-OiLdFxryygbaoCEoV",
+      "nama_skin": "Frost Fire Hero.png"
+    },
+    {
+      "id": 45,
+      "view_skin": "https://lh3.googleusercontent.com/d/12Wd6iamfWG31p9ZiXBSdvRqM1j07ezZ5",
+      "skin_url": "https://lh3.googleusercontent.com/d/1f5UsXKyoDFtPgu00Y1vjYgEHSyY9wHqy",
+      "nama_skin": "Frost Diamond Bapak Lupa.png"
+    },
+    {
+      "id": 46,
+      "view_skin": "https://lh3.googleusercontent.com/d/1WQ6ZeRChaMBJPyUQjOqsU-B-js1hszxD",
+      "skin_url": "https://lh3.googleusercontent.com/d/1ZYCtVBdM6jCT9SC5W3cXcN_7tOfRP27E",
+      "nama_skin": "Disaster Frost Diamond.png"
+    },
+    {
+      "id": 47,
+      "view_skin": "https://lh3.googleusercontent.com/d/16cD529xUsficryckiGZ2xQo4pZkmgf6f",
+      "skin_url": "https://lh3.googleusercontent.com/d/1i8U-0bf2RIQPK0emj7KSvfLTNHjrtWca",
+      "nama_skin": "Frost Diamond 1.png"
+    },
+    {
+      "id": 48,
+      "view_skin": "https://lh3.googleusercontent.com/d/1vLqNNxvT4ulAO5APiO0jqoMZ7nlV6kdJ",
+      "skin_url": "https://lh3.googleusercontent.com/d/1elRCi6r9_Ri6jzASs1DnK7HG0-N26ljK",
+      "nama_skin": "Pink Green Frost.png"
+    },
+    {
+      "id": 49,
+      "view_skin": "https://lh3.googleusercontent.com/d/1HXwGgGll-qlUs3TgtSKcB4lFGh_32GIY",
+      "skin_url": "https://lh3.googleusercontent.com/d/1eCy7Tsb0YEtWgVaGhr-J-uvMJUsThy0a",
+      "nama_skin": "Frost Kantoran.png"
+    },
+    {
+      "id": 50,
+      "view_skin": "https://lh3.googleusercontent.com/d/1wrdO5Q-hJrFfrpfueHVALzKvOT0GO1G8",
+      "skin_url": "https://lh3.googleusercontent.com/d/1gJJ9m33qDGuL_M2pGueekh18J2oZCyld",
+      "nama_skin": "Frost Diamond Red 2.png"
+    },
+    {
+      "id": 51,
+      "view_skin": "https://lh3.googleusercontent.com/d/169RPF3HJ0l37f9aIz2mtACYsE2E5f0vr",
+      "skin_url": "https://lh3.googleusercontent.com/d/1CkAmzQh1MXnGvqkEzyDETYwynDTBO6dE",
+      "nama_skin": "Frost Zombie 1.png"
+    },
+    {
+      "id": 52,
+      "view_skin": "https://lh3.googleusercontent.com/d/1lG4K9vyAz9LwOdfALzO9AFNxGE4Wa4gC",
+      "skin_url": "https://lh3.googleusercontent.com/d/1pD8rCXfk1O1rc3OnRgg26GCdqVz03-io",
+      "nama_skin": "Frost Diamond Yellow.png"
+    },
+    {
+      "id": 53,
+      "view_skin": "https://lh3.googleusercontent.com/d/1FagKQqf3TN7uT5DpPiIPRcPg8Prnrec6",
+      "skin_url": "https://lh3.googleusercontent.com/d/1kYAOEbFDEDKO7OHFmHGQccmlZ1yRPn42",
+      "nama_skin": "Frost Diamond Pink Blue.png"
+    },
+    {
+      "id": 54,
+      "view_skin": "https://lh3.googleusercontent.com/d/1G9nfSt4jqgK09v7ecW1Mg9V9qU19l6Qk",
+      "skin_url": "https://lh3.googleusercontent.com/d/1XOukVi31M3GHFFgB8y5QUaSyqXPRNrvM",
+      "nama_skin": "Frost Red Blue Green.png"
+    },
+    {
+      "id": 55,
+      "view_skin": "https://lh3.googleusercontent.com/d/18Jl2Od9k4oRuGjvsvulKvh9ui5Jm6L0l",
+      "skin_url": "https://lh3.googleusercontent.com/d/1iXQpLZR320V2dsv9ApT64dyHiHRjFTsZ",
+      "nama_skin": "Frost Pink Girl.png"
+    },
+    {
+      "id": 56,
+      "view_skin": "https://lh3.googleusercontent.com/d/1I4XIoBmcNR5az7161SrLzgsr0lifRHV9",
+      "skin_url": "https://lh3.googleusercontent.com/d/1EsfgRWx-wMHA5xVqDXGBnnzfHUIPb0B4",
+      "nama_skin": "Frost Diamond Baseball .png"
+    },
+    {
+      "id": 57,
+      "view_skin": "https://lh3.googleusercontent.com/d/1txqVh7ADdpTLN5bojBwbgb8n_y8nijh2",
+      "skin_url": "https://lh3.googleusercontent.com/d/1BzLE5jAx-5Uq-5VSLhtBmqaO01rZKByA",
+      "nama_skin": "Frost Diamond Simple.png"
+    },
+    {
+      "id": 58,
+      "view_skin": "https://lh3.googleusercontent.com/d/1L6z5t6viO5Bymt1IMJSMo7pwlwoye9N8",
+      "skin_url": "https://lh3.googleusercontent.com/d/1y07-gcNSLVRnHKZZp8ybJupOUkVooeN8",
+      "nama_skin": "Frost Jacket.png"
+    },
+    {
+      "id": 59,
+      "view_skin": "https://lh3.googleusercontent.com/d/1TSgvoduK-X1niBWBJnnU0YoxbEu-SXJX",
+      "skin_url": "https://lh3.googleusercontent.com/d/1tnSCMiQSkY5TTTC46ZmU_Ap6lC9k9jWM",
+      "nama_skin": "Frost Emerald 1.png"
+    },
+    {
+      "id": 60,
+      "view_skin": "https://lh3.googleusercontent.com/d/1Gl4NLLX8Ksej0_N76DtM5a4VzFx5YUvC",
+      "skin_url": "https://lh3.googleusercontent.com/d/1sLLiTWFZf9rlb4UGwPbVtH9PUsHLT6Hu",
+      "nama_skin": "Gold Red Blue Frost Diamond.png"
+    },
+    {
+      "id": 61,
+      "view_skin": "https://lh3.googleusercontent.com/d/1kkoT1iZtqbgaKQcs06O1JviJ_mXZjnm0",
+      "skin_url": "https://lh3.googleusercontent.com/d/17B-kb2GJF-uBi3n4ihrjZIuwekoGOJNb",
+      "nama_skin": "Frost Diamond Blue Yellow.png"
+    },
+    {
+      "id": 62,
+      "view_skin": "https://lh3.googleusercontent.com/d/1NuRiGDdawlxVNm17KJVkcBik8WjVyuPp",
+      "skin_url": "https://lh3.googleusercontent.com/d/1v98cn_FPxVvaCCjvYj8AoKdc4Klb87Cj",
+      "nama_skin": "Frost Shadow Dark.png"
+    },
+    {
+      "id": 63,
+      "view_skin": "https://lh3.googleusercontent.com/d/1G2X8cy_2c0gDNyc8N5rB0wG6h9t0B_p1",
+      "skin_url": "https://lh3.googleusercontent.com/d/1KOTs4s87475shCDHxJhzL5BPmPPcZtNG",
+      "nama_skin": "Frost Iron Sea.png"
+    },
+    {
+      "id": 64,
+      "view_skin": "https://lh3.googleusercontent.com/d/1Ur_Qlik87qHGQ_Zoj1cwYxAa-BJPHulo",
+      "skin_url": "https://lh3.googleusercontent.com/d/1uhalIYLgz9uTidnqwh6M5D5dQL9Z9J3x",
+      "nama_skin": "Frost Black Red.png"
+    },
+    {
+      "id": 65,
+      "view_skin": "https://lh3.googleusercontent.com/d/1E6wbCkq6sKJc6baKn9ZqyWgNgnu77dIO",
+      "skin_url": "https://lh3.googleusercontent.com/d/1fGtEOdf7iH4fnkf-ZqtID39MYuQnq9Tn",
+      "nama_skin": "Fusi On Bapack Frost.png"
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "nama_add": "Cat Plush",
+      "add_url": "https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url": "https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url": "https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add": "https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add": "file:///android_asset/cats.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "nama_map": "Hello Neighbor2",
+      "map_url": "https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map": "https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map": "https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
